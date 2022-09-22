@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 112J-TDAR-R01
+#
+DEF 112J-TDAR-R01 K 0 40 Y Y 1 L N
+F0 "K" 0 0 50 H I L BNN
+F1 "112J-TDAR-R01" 0 0 50 H I L BNN
+F2 "112J-TDAR-R01" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 4 250 550 200 600 N
+S -345 -445 305 705 0 0 4 f
+X 1-DAT2 1 450 500 200 L 40 40 0 0 B 
+X 2-CD/DAT3 2 450 400 200 L 40 40 0 0 B 
+X 3-CMD 3 450 300 200 L 40 40 0 0 B 
+X 4-VDD 4 450 200 200 L 40 40 0 0 B 
+X 5-CLK 5 450 100 200 L 40 40 0 0 B 
+X 6-VSS 6 450 0 200 L 40 40 0 0 B 
+X 7-DAT0 7 450 -100 200 L 40 40 0 0 B 
+X 8-DAT1 8 450 -200 200 L 40 40 0 0 B 
+X SW-A CD 450 -350 200 L 40 40 0 0 B 
+X SW-B/GND G 450 -450 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
