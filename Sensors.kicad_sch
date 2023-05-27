@@ -362,7 +362,7 @@
   )
 
   (no_connect (at 81.28 35.56) (uuid 46d9148a-f126-4292-bf2f-9f2bc0864981))
-  (no_connect (at 81.28 38.1) (uuid 46d9148a-f126-4292-bf2f-9f2bc0864981))
+  (no_connect (at 81.28 38.1) (uuid 46d9148a-f126-4292-bf2f-9f2bc0864982))
 
   (wire (pts (xy 125.73 29.21) (xy 134.62 29.21))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -467,6 +467,15 @@
   (wire (pts (xy 66.04 58.42) (xy 66.04 62.23))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f406d746-2c61-4a96-9fac-fc1808653187)
+  )
+
+  (text "BMP280" (at 99.06 17.78 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 28d86262-4db2-482c-8ae7-f64f89ab96b6)
+  )
+  (text "LSM6DS" (at 15.24 16.51 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bb7fe226-e16f-4aae-a4af-93f297b7bbd0)
   )
 
   (global_label "MOSI" (shape input) (at 50.8 45.72 180) (fields_autoplaced)
