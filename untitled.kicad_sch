@@ -1444,7 +1444,7 @@
   )
 
   (no_connect (at 50.8 86.36) (uuid 115e80b3-8f7c-4429-a0ce-c7cbd649c2dc))
-  (no_connect (at 50.8 88.9) (uuid 115e80b3-8f7c-4429-a0ce-c7cbd649c2dc))
+  (no_connect (at 50.8 88.9) (uuid 115e80b3-8f7c-4429-a0ce-c7cbd649c2dd))
 
   (wire (pts (xy 39.37 49.53) (xy 46.99 49.53))
     (stroke (width 0) (type default) (color 0 0 0 0))
